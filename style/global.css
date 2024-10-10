@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Syne:wght@400..800&display=swap');
+
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --snitap-sun: #FFCD1E;
+  --snitap-sky-mid: #06B6D4;
+  --snitap-sky-light: #67E8F9;
+  --snitap-joy-mid: #DB2777;
+  --snitap-joy-light: #F472B6;
+  --snitap-leaf-mid: #16A34A;
+
+  --text: #000000;
+  --highlights: #000000;
+  --background: #FAFAFA;
+
+
+  --font-family-syne: "Syne", sans-serif;
+  --text-xl: bold 4rem/125% var(--font-family-syne);
+  --text-lg: bold 2.5rem/120% var(--font-family-syne);
+
+
+  --font-family-montserrat: "Montserrat", sans-serif;;
+  --text-base: 500 1rem/150% var(--font-family-montserrat);
+  --text-sm: .875rem/150% var(--font-family-montserrat);
+}
