@@ -18,7 +18,6 @@ O **Snitap** foi criado com o objetivo de explorar o potencial das animações e
 - **Animações Personalizadas:** 
   - Destaque em botões, imagens e seções específicas.
   - Animações criadas para dar vida ao conteúdo e capturar o interesse visual.
-- **Design Responsivo:** Compatível com diferentes dispositivos e tamanhos de tela.
 - **Estrutura Clean:** Foco em clareza e simplicidade, permitindo fácil personalização.
 - **Figma como Referência:** Layout planejado e alinhado com o design original no Figma.
 
